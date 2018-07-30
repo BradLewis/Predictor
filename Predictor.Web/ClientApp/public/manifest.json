@@ -1,6 +1,6 @@
 {
-  "short_name": "Predictor",
-  "name": "Predictor",
+  "short_name": "Predictor.Web",
+  "name": "Predictor.Web",
   "icons": [
     {
       "src": "favicon.ico",
