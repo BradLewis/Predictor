@@ -8,6 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+.vscode
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -26,7 +27,7 @@ Bin/
 obj/
 Obj/
 
-# Visual Studio 2015 cache/options directory
+# Visual Studio 2019 cache/options directory
 .vs/
 /wwwroot/dist/
 
