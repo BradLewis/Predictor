@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predictor.Web", "Predictor.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predictor.Domain", "Predictor.Domain\Predictor.Domain.csproj", "{D1C280CA-8276-421D-9301-F39824BEF267}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predictor.Models", "Predictor.Models\Predictor.Models.csproj", "{33D36141-4825-4A07-8B8B-5461845E4301}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D1C280CA-8276-421D-9301-F39824BEF267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1C280CA-8276-421D-9301-F39824BEF267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1C280CA-8276-421D-9301-F39824BEF267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D36141-4825-4A07-8B8B-5461845E4301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D36141-4825-4A07-8B8B-5461845E4301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D36141-4825-4A07-8B8B-5461845E4301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D36141-4825-4A07-8B8B-5461845E4301}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
