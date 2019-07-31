@@ -3,7 +3,7 @@ using Microsoft.ML.Data;
 
 namespace Predictor.Models.DataStructures.Hourly
 {
-    public class Pressure : Cities<double>
+    public class Pressure : Cities<float>
     {
         [LoadColumn(0)]
         public DateTime DateTime { get; set; }
