@@ -10,7 +10,7 @@ namespace Predictor.Models.Hourly
         public double Pressure { get; set; }
         public double Temperature { get; set; }
         public string WeatherDescription { get; set; }
-        public string WindDirection { get; set; }
-        public string WindSpeed { get; set; }
+        public double WindDirection { get; set; }
+        public double WindSpeed { get; set; }
     }
 }
