@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Predictor.Models.Hourly
+namespace Predictor.Models.Hourly.DataStructures
 {
     public class Humidity : Cities<double>
     {
