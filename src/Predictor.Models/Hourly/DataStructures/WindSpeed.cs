@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Predictor.Models.Hourly
+namespace Predictor.Models.Hourly.DataStructures
 {
     public class WindSpeed : Cities<double>
     {
