@@ -1,5 +1,5 @@
 ﻿
-namespace Predictor.Models.Hourly
+namespace Predictor.Models.DataStructures.Hourly
 {
     public class City
     {
