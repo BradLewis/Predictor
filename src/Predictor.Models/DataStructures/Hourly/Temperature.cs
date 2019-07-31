@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.ML.Data;
 
-namespace Predictor.Models.Hourly.DataStructures
+namespace Predictor.Models.DataStructures.Hourly
 {
     public class Temperature : Cities<double>
     {
