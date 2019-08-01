@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29111.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predictor.Web", "src\Predictor.Web\Predictor.Web.csproj", "{50B114D7-06E6-4F5C-8866-AC11F0A17AF0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predictor.Domain", "src\Predictor.Domain\Predictor.Domain.csproj", "{D1C280CA-8276-421D-9301-F39824BEF267}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predictor.Models", "src\Predictor.Models\Predictor.Models.csproj", "{33D36141-4825-4A07-8B8B-5461845E4301}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50B114D7-06E6-4F5C-8866-AC11F0A17AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50B114D7-06E6-4F5C-8866-AC11F0A17AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50B114D7-06E6-4F5C-8866-AC11F0A17AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50B114D7-06E6-4F5C-8866-AC11F0A17AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D1C280CA-8276-421D-9301-F39824BEF267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D1C280CA-8276-421D-9301-F39824BEF267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1C280CA-8276-421D-9301-F39824BEF267}.Release|Any CPU.ActiveCfg = Release|Any CPU
